@@ -1,3 +1,4 @@
 #!/bin/bash
-# this is for counting the number of sequence files in a fastafile
-grep -c "^>" $1
+#doodeedoo i am sabotaging this project
+#SABOTAGE
+grep -count "^>" $1
