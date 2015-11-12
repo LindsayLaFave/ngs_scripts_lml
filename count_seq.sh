@@ -1,4 +1,4 @@
 #!/bin/bash
 #doodeedoo i am sabotaging this project
 #SABOTAGE
-grep -count "^>" $1
+grep -Count "^>" $1
